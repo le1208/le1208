@@ -1,16 +1,14 @@
-### Hi there 👋
+### Boas vindas ao meu perfil 💜
 
-<!--
-**le1208/le1208** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*Eu sou a aluna leticia*🏫👧
 
-Here are some ideas to get you started:
+-Estou estudando na plataforma [alura](https://cursos.alura.com.br).
+-Estou me desenvolvendo na linguagem JavaScript.
+-Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## você pode entrar em contato comigo 
+
+00001102264064sp@al.educacao.sp.gov.br 
+
+[] ![snoopy-sleep](https://github.com/le1208/le1208/assets/170032637/8cae8b01-1952-44d4-991a-548948308e5a)
